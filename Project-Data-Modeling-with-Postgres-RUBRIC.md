@@ -22,7 +22,9 @@
 |The project shows proper use of documentation.|The README file includes a summary of the project, how to run the Python scripts, and an explanation of the files in the repository. Comments are used effectively and each function has a docstring.
 |The project code is clean and modular.|Scripts have an intuitive, easy-to-follow structure with code separated into logical functions. Naming for variables and functions follows the PEP8 style guidelines.
 
-<p style="text-align: center;"><b>Suggestions to Make Your Project Stand Out!</b></p>
+###Suggestions to Make Your Project Stand Out!
+```
 * Insert data using the COPY command to bulk insert log files instead of using INSERT on one row at a time
 * Add data quality checks
 * Create a dashboard for analytic queries on your new database
+```
